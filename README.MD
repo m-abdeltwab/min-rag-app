@@ -45,5 +45,10 @@ $ cp .env.example .env
 - Git & Github
 - API
   - FastAPI
-- Python 
+- Python
   - Decorator
+  - async function
+- Swagger UI
+- Postman
+- endpoint
+- boilerplate template (fastapi, ...)
